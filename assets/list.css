@@ -1,0 +1,15 @@
+.top {
+    cursor: pointer;
+}
+
+.card {
+    border-radius: 0;
+    background-color: rgba(165, 42, 42, 0.3);
+    color: white;
+
+}
+
+.title {
+    margin: 0;
+    margin-top: 40px;
+}

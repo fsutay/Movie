@@ -1,0 +1,34 @@
+
+#favStar{
+    color: grey;
+  }
+  .btn-fav {
+    color: black !important;
+  }
+  .list-group-item{
+    background: none;
+    border: 0;
+    color: rgb(205, 193, 193);
+  }
+  .card {
+    border-radius: 0;
+    background-color: rgba(165, 42, 42, 0.3);
+    color: white;
+  
+  }
+
+  .detail-title {
+    font-size: 30px;
+    color: rgb(230, 230, 230);
+  }
+
+  .list-group span {
+    font-weight: 600;
+    font-size: 18px;
+  }
+
+  .detail-body{
+    background-color: rgba(165, 42, 42, 0.3);
+    color: white;
+    border: 0;
+  }

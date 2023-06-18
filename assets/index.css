@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+        .slider {
+            padding: 0;
+        }
+
+        a {
+            text-decoration: none;
+            color: white;
+        }
+
+        .movie {
+
+            font-size: 40px;
+            font-weight: 500;
+            font-family: 'Poppins', sans-serif;
+            color: white;
+        }
+
+        .card {
+            border-radius: 0;
+            background-color: rgba(165, 42, 42, 0.3);
+            color: white;
+            cursor: pointer;
+        }
+
+        .sticky-list {
+            display: flex;
+            justify-content: space-between;
+            margin: 0;
+            padding: 10px;
+            background-color: rgb(29, 28, 28);
+            list-style-type: none;
+        }
+
+        .sticky-list li a {
+            padding: 10px;
+            font-size: 17px;
+            border-radius: 10px;
+        }
+
+        .sticky-list li a:hover {
+            background-color: rgb(197, 196, 196);
+            color: rgb(8, 0, 0);
+            transition: ease .6s;
+        }
